@@ -1,0 +1,10 @@
+﻿  hcode.c
+D:\vscodes\DS2\DS2\DS2\hcode.c(95,18): warning C4047: “函数”:“Queue **”与“Queue *”的间接级别不同
+D:\vscodes\DS2\DS2\DS2\hcode.c(95,13): warning C4024: “addNode”: 形参和实参 1 的类型不同
+D:\vscodes\DS2\DS2\DS2\hcode.c(96,18): warning C4047: “函数”:“Queue **”与“Queue *”的间接级别不同
+D:\vscodes\DS2\DS2\DS2\hcode.c(96,13): warning C4024: “addNode”: 形参和实参 1 的类型不同
+D:\vscodes\DS2\DS2\DS2\hcode.c(97,18): warning C4047: “函数”:“Queue **”与“Queue *”的间接级别不同
+D:\vscodes\DS2\DS2\DS2\hcode.c(97,13): warning C4024: “addNode”: 形参和实参 1 的类型不同
+D:\vscodes\DS2\DS2\DS2\hcode.c(98,18): warning C4047: “函数”:“Queue **”与“Queue *”的间接级别不同
+D:\vscodes\DS2\DS2\DS2\hcode.c(98,13): warning C4024: “addNode”: 形参和实参 1 的类型不同
+  DS2.vcxproj -> D:\vscodes\DS2\DS2\x64\Debug\DS2.exe
